@@ -2,10 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: on-chain sCDOs
+    subtitle: for the future of decentralized finance.
     actions:
       - label: Learn More
         url: /features
@@ -14,15 +12,15 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/peyotetoken.png
     image_position: right
     has_background: true
     background:
-      background_color: blue
-      background_image: images/diagonal-lines.svg
-      background_image_opacity: 20
-      background_image_size: auto
-      background_image_repeat: repeat
+      background_color: gray
+      background_image: images/gradientbgwtext.png
+      background_image_opacity: 100
+      background_image_size: cover
+      background_image_repeat: no-repeat
   - type: features_section
     title: Features
     features:

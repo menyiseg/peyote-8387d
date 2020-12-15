@@ -1,8 +1,8 @@
 {
-    "description": "An ultra customizable generic theme for Stackbit",
+    "description": "Developing on-chain sCDOs",
     "header": {
-        "title": "Starter",
-        "has_nav": true,
+        "title": "",
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Features",
@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/peyote.png"
     },
     "footer": {
         "has_nav": true,
@@ -66,15 +67,8 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit-Starter. All rights reserved.",
-        "links": [
-            {
-                "label": "Made with Stackbit.",
-                "url": "https://www.stackbit.com",
-                "style": "link",
-                "new_window": true
-            }
-        ]
+        "content": "&copy; miletus formations LLC. All rights reserved.",
+        "links": []
     },
-    "title": "Stackbit Starter Theme"
+    "title": "Peyote"
 }
