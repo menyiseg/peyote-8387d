@@ -11,7 +11,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    align: left
+    align: center
     image: images/peyotetoken.png
     image_position: right
     has_background: true
