@@ -2,7 +2,7 @@
     "description": "Developing on-chain sCDOs",
     "header": {
         "title": "",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Features",
