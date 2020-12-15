@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/peyotetoken.svg
+    image: images/peyotetoken.png
     image_position: right
     has_background: true
     background:
