@@ -14,7 +14,7 @@ sections:
     align: left
     image: images/peyotetoken.png
     image_position: right
-    has_background: false
+    has_background: true
     background:
       background_color: gray
       background_image: images/gradientbgwtext.png
