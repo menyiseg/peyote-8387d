@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: on-chain sCDOs
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: for the future of decentralized finance.
     actions:
       - label: Learn More
         url: /features
