@@ -20,7 +20,7 @@ sections:
     background:
       background_color: gray
       background_image: images/gradientbgwtext.png
-      background_image_opacity: 20
+      background_image_opacity: 100
       background_image_size: auto
       background_image_repeat: no-repeat
   - type: features_section
