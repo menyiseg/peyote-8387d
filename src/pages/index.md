@@ -16,7 +16,7 @@ sections:
     has_background: true
     background:
       background_color: white
-      background_image: images/wiide.png
+      background_image: images/futuristic-spruce.png
       background_image_opacity: 100
       background_image_size: contain
       background_image_repeat: no-repeat
