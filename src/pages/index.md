@@ -50,9 +50,9 @@ sections:
             style: secondary
       - title: Introducing the Peyote Governance Token (PYT)
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          We are opening the Peyote project to our governance token holders. The
+          general public will be able to purchase the **PYT** tokens in an
+          offering held early this spring.
         align: left
         image: images/feature.svg
         image_position: right
