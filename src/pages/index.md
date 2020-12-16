@@ -38,9 +38,9 @@ sections:
             style: secondary
       - title: Unique Risk Management Solutions
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Synthetic CDOs allow for empowerment to institutions who are looking
+          for a unique product that can disrupt the way they manage risk. We are
+          proud to be introducing these products to the DeFi ecosystem.
         align: left
         image: images/feature.svg
         image_position: left
