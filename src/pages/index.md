@@ -25,9 +25,9 @@ sections:
     features:
       - title: 'Exotic Financial Products, On the Blockchain'
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Utilizing non-custodial exchanges and smart contract driven lending
+          pools, we are working to create the next generation of derivatives for
+          sophisticated investors and institutions. 
         align: left
         image: images/feature.svg
         image_position: right
