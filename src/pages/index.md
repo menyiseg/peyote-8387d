@@ -12,14 +12,15 @@ sections:
         url: /contact
         style: secondary
     align: right
-    image_position: right
+    image_position: left
     has_background: true
     background:
       background_color: white
-      background_image: images/wide.png
+      background_image: images/energetic-sun.png
       background_image_opacity: 100
       background_image_size: cover
       background_image_repeat: no-repeat
+    image: images/PEYOTElogoplusname.png
   - type: features_section
     title: What is Peyote?
     features:
