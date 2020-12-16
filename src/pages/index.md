@@ -53,7 +53,7 @@ sections:
           We are opening the Peyote project to our governance token holders. The
           general public will be able to purchase the **PYT** tokens in an
           offering held early this spring.
-        align: left
+        align: center
         image: images/great-giraffe.png
         image_position: right
         actions:
