@@ -13,7 +13,7 @@ sections:
         style: secondary
     align: center
     image_position: right
-    has_background: true
+    has_background: false
     background:
       background_color: gray
       background_image: images/wiide.png
