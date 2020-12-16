@@ -68,7 +68,7 @@ sections:
     title: Leave Us A Message
     subtitle: We enjoy hearing what our community has to say.
     actions:
-      - label: Learn More
+      - label: Contact Us
         url: /contact
         style: primary
     has_background: true
