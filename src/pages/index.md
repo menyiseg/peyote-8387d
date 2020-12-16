@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: on-chain sCDOs
-    subtitle: for the future of decentralized finance.
+    subtitle: ''
     actions:
       - label: Read Our Whitepaper
         url: /features
