@@ -55,7 +55,7 @@ sections:
           offering held early this spring.
         align: left
         image: images/great-giraffe.png
-        image_position: left
+        image_position: right
         actions:
           - label: Learn More
             url: /features
