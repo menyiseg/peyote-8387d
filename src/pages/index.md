@@ -5,7 +5,7 @@ sections:
     title: on-chain sCDOs
     subtitle: for the future of decentralized finance.
     actions:
-      - label: Learn More
+      - label: Read Our Whitepaper
         url: /features
         style: primary
       - label: Contact Us
