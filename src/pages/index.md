@@ -30,48 +30,42 @@ sections:
           pools, we are working to create the next generation of derivatives for
           sophisticated investors and institutions. 
         align: left
-        image: images/feature.svg
+        image: images/PEYOTEpartners.png
         image_position: right
         actions:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 2
+      - title: Unique Risk Management Solutions
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Synthetic CDOs allow for empowerment to institutions who are looking
+          for a unique product that can disrupt the way they manage risk. We are
+          proud to be introducing these products to the DeFi ecosystem.
         align: left
-        image: images/feature.svg
+        image: images/superb-turmeric.png
         image_position: left
         actions:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 3
+      - title: Introducing the Peyote Governance Token (PYT)
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image: images/feature.svg
+          We are opening the Peyote project to our governance token holders. The
+          general public will be able to purchase the **PYT** tokens in an
+          offering held early this spring.
+        align: center
+        image: images/great-giraffe.png
         image_position: right
         actions:
           - label: Learn More
             url: /features
             style: secondary
-  - type: blog_feed_section
-    title: What's New
-    show_recent: true
-    recent_count: 3
   - type: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: Leave Us A Message
+    subtitle: We enjoy hearing what our community has to say.
     actions:
-      - label: Learn More
-        url: /features
+      - label: Contact Us
+        url: /contact
         style: primary
     has_background: true
     background_color: white
