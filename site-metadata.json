@@ -49,6 +49,13 @@
                 "style": "link",
                 "new_window": false,
                 "type": "action"
+            },
+            {
+                "label": "Whitepaper",
+                "url": "/features",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
             }
         ],
         "type": "header",
