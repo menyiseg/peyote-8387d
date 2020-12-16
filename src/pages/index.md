@@ -66,9 +66,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Leave Us A Message
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: We'd like to hear what you have to say.
     actions:
       - label: Learn More
         url: /features
