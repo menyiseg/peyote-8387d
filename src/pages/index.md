@@ -66,7 +66,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Leave Us A Message
-    subtitle: We'd like to hear our community's voice.
+    subtitle: 'We '
     actions:
       - label: Learn More
         url: /features
