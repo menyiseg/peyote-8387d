@@ -54,7 +54,7 @@ sections:
           general public will be able to purchase the **PYT** tokens in an
           offering held early this spring.
         align: left
-        image: images/feature.svg
+        image: images/great-giraffe.png
         image_position: right
         actions:
           - label: Learn More
