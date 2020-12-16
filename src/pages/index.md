@@ -69,7 +69,7 @@ sections:
     subtitle: We enjoy hearing what our community has to say.
     actions:
       - label: Learn More
-        url: /features
+        url: /contact
         style: primary
     has_background: true
     background_color: white
