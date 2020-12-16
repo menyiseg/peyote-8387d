@@ -17,7 +17,7 @@ sections:
     has_background: true
     background:
       background_color: gray
-      background_image: images/gradientbgwtext.png
+      background_image: images/omg.png
       background_image_opacity: 100
       background_image_size: cover
       background_image_repeat: no-repeat
