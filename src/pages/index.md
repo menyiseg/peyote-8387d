@@ -11,13 +11,12 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    align: left
-    image: images/peyotetoken.png
+    align: right
     image_position: right
     has_background: true
     background:
-      background_color: gray
-      background_image: images/gradientbgwtext.png
+      background_color: white
+      background_image: images/futuristic-spruce.png
       background_image_opacity: 100
       background_image_size: cover
       background_image_repeat: no-repeat
@@ -74,6 +73,6 @@ sections:
         url: /features
         style: primary
     has_background: true
-    background_color: gray
+    background_color: white
 template: advanced
 ---
