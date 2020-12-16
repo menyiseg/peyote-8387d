@@ -44,7 +44,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Contact",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
