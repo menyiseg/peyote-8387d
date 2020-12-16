@@ -41,7 +41,7 @@
     "title": "Peyote",
     "header": {
         "title": "",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [],
         "type": "header"
     }
