@@ -20,7 +20,7 @@ sections:
       background_image_opacity: 100
       background_image_size: cover
       background_image_repeat: no-repeat
-    image: images/PEYOTElogoplusname.png
+    image: images/PEYOTEfull_logo.png
   - type: features_section
     title: What is Peyote?
     features:
