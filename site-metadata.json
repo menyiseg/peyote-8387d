@@ -43,6 +43,7 @@
         "title": "",
         "has_nav": true,
         "nav_links": [],
-        "type": "header"
+        "type": "header",
+        "logo": "images/peyotewordlogo.svg"
     }
 }
