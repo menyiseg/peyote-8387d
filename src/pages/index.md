@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: right
-    image_position: right
+    image_position: left
     has_background: true
     background:
       background_color: white
