@@ -46,7 +46,7 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "primary",
+                "style": "secondary",
                 "new_window": false,
                 "type": "action"
             }
