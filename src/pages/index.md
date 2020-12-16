@@ -18,7 +18,7 @@ sections:
       background_color: white
       background_image: images/futuristic-spruce.png
       background_image_opacity: 100
-      background_image_size: contain
+      background_image_size: auto
       background_image_repeat: no-repeat
   - type: features_section
     title: Features
