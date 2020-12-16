@@ -38,5 +38,11 @@
         "content": "&copy; miletus formations LLC. All rights reserved.",
         "links": []
     },
-    "title": "Peyote"
+    "title": "Peyote",
+    "header": {
+        "title": "lorem-ipsum",
+        "has_nav": true,
+        "nav_links": [],
+        "type": "header"
+    }
 }
