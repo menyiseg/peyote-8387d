@@ -52,7 +52,7 @@
             },
             {
                 "label": "Whitepaper",
-                "url": "lorem-ipsum",
+                "url": "/features",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
