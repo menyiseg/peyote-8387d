@@ -42,7 +42,7 @@ sections:
           for a unique product that can disrupt the way they manage risk. We are
           proud to be introducing these products to the DeFi ecosystem.
         align: left
-        image: images/PEYOTEhammer.png
+        image: images/superb-turmeric.png
         image_position: left
         actions:
           - label: Learn More
