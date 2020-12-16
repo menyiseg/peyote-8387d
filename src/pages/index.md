@@ -30,7 +30,7 @@ sections:
           pools, we are working to create the next generation of derivatives for
           sophisticated investors and institutions. 
         align: left
-        image: images/feature.svg
+        image: images/PEYOTEpartners.png
         image_position: right
         actions:
           - label: Learn More
