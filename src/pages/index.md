@@ -66,7 +66,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Leave Us A Message
-    subtitle: We'd like to hear what you have to say.
+    subtitle: 'We''d like to hear '
     actions:
       - label: Learn More
         url: /features
